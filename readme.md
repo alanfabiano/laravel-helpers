@@ -2,7 +2,7 @@
 
 In the `require` key of `composer.json` file add the following
 
-    "alanfabiano/laravel-helpers": "0.0.1"
+    "alanfabiano/laravel-helpers": "dev-master"
 
 ## Documentation
 
